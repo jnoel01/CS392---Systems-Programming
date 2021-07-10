@@ -4,9 +4,9 @@ An introduction to systems programming in BASH, and C on Linux. Introduction to 
 
 <h3>Outcomes:</h3>
 1) I am able to use the Linux system, including the terminal and Linux commands. </br>
-2) I am able to create C programs that conform to the specification of Linux platform, including C grammars, compiling, and linking.
-3) I am able to create makefiles and perform debugging with tools like gdb.
-4) I am able to develop applications that perform files accesses.
-5) I am able to create a client/server based application using sockets.
-6) I am able to develop applications that create new processes and allow them to communicate with each other through channels like signals, pipes, or shared memory.
+2) I am able to create C programs that conform to the specification of Linux platform, including C grammars, compiling, and linking. </br>
+3) I am able to create makefiles and perform debugging with tools like gdb. </br>
+4) I am able to develop applications that perform files accesses. </br>
+5) I am able to create a client/server based application using sockets. </br>
+6) I am able to develop applications that create new processes and allow them to communicate with each other through channels like signals, pipes, or shared memory. </br>
 7) I understand memory management, permissions (such as setUID/setGID), and how a system call works.
